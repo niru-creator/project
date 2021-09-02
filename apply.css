@@ -1,0 +1,98 @@
+body{
+	background:rgb(100, 210, 226);
+}
+
+.navbar.navbar-expand-lg .navbar-dark .bg-primary{
+	padding:0px;
+/* 	margin:0px;
+ */	background:#efefef;
+} 
+
+
+.container-fluid{
+	background: #abcfaf;
+}
+.banner{
+	
+	width:100%;
+	height:95vh;
+	background:Linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.8)),url("../images/img.jpg");
+	background-size:cover;
+	color:white;
+}
+p{
+	font-size:20px;
+	
+}
+ .my-card{
+ padding:10px;
+ background:#eeecff;
+ }
+ 
+ body {
+  margin: 0;
+  padding: 0;
+  background-color:#ccddee;
+  height: 100vh;
+} 
+#login .container #login-row #login-column #login-box {
+  margin-top: 120px;
+  max-width: 600px;
+  height: 380px;
+  border: 1px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+ 
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -100px;
+  
+}
+#login .container #login-row #login-column #login-box #login-form .form-group .form-control{
+	background-color:white;
+}
+
+/* css for sidebar */ 
+
+ .sidebar{
+ width:18%;
+ background:white;
+ height:100%;
+ position:fixed;
+ padding-top:45px;
+ }
+ 
+ .sidebar a{
+  display:block;
+ 
+ width:100%;
+ color:brown;
+ padding:10px 10px;
+ text-decoration:none;
+ 
+ }
+ .sidebar a:hover{
+ background: #e3e3e3;
+ }
+ 
+ .sidebar .cross{
+ position:absolute;
+ top:0;
+ right:35px;
+ font-size:36px;
+ cursor:pointer;
+ 
+ }
+ 
+/*  end of sidebar */ 
+ 
+/*  start of css for contact */ 
+ .content{
+ margin-left:20%;
+ 
+ }
+ 
+ 
+ 
